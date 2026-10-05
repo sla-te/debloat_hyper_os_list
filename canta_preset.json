@@ -4,153 +4,449 @@
   "createdDate": 1791158739428,
   "version": "1.0",
   "apps": [
-    "android.autoinstalls.config.Xiaomi.cactus",
-    "android.autoinstalls.config.Xiaomi.cepheus",
-    "android.autoinstalls.config.Xiaomi.cereus",
-    "android.autoinstalls.config.Xiaomi.daisy",
-    "android.autoinstalls.config.Xiaomi.dipper",
-    "android.autoinstalls.config.Xiaomi.land",
-    "android.autoinstalls.config.Xiaomi.model",
-    "android.autoinstalls.config.Xiaomi.qssi",
-    "android.autoinstalls.config.Xiaomi.whyred",
-    "android.autoinstalls.config.Xiaomi.willow",
-    "android.romstats",
-    "com.altice.android.myapps",
-    "com.amazon.appmanager",
-    "com.android.egg",
-    "com.android.providers.partnerbookmarks",
-    "com.android.theme.font.notoserifsource",
-    "com.android.traceur",
-    "com.aura.oobe.deutsche",
-    "com.aura.oobe.vodafone",
-    "com.bsp.catchlog",
-    "com.dti.bouyguestelecom",
-    "com.dti.telefonica",
-    "com.duokan.reader",
-    "com.ebay.carrier",
-    "com.facebook.appmanager",
-    "com.facebook.services",
-    "com.facebook.system",
-    "com.fingerprints.extension.service",
-    "com.fingerprints.sensortesttool",
-    "com.goodix.fingerprint",
-    "com.goodix.fingerprint.producttest",
-    "com.goodix.gftest",
-    "com.huaqin.diaglogger",
-    "com.ironsource.appcloud.oobe.hutchison",
-    "com.jiiov.fingerprint_factorytest",
-    "com.longcheertel.midtest",
-    "com.mfashiongallery.emag",
-    "com.mi.appfinder",
-    "com.mi.global.bbs",
-    "com.mi.global.pocobbs",
-    "com.mi.global.pocostore",
-    "com.mi.global.shop",
-    "com.mi.globalbrowser",
-    "com.mi.globalbrowser.mini",
-    "com.mi.health",
-    "com.micredit.in",
-    "com.mig.play.games",
-    "com.mipay.wallet.id",
-    "com.mipay.wallet.in",
-    "com.miui.analytics",
-    "com.miui.android.fashiongallery",
-    "com.miui.bugreport",
-    "com.miui.carrierinstructions",
-    "com.miui.cit",
-    "com.miui.cleaner",
-    "com.miui.cleanmaster",
-    "com.miui.contentextension",
-    "com.miui.easygo",
-    "com.miui.enbbs",
-    "com.miui.fm",
-    "com.miui.fmservice",
-    "com.miui.hybrid",
-    "com.miui.hybrid.accessory",
-    "com.miui.klo.bugreport",
-    "com.miui.mediafeature",
-    "com.miui.metoknlp",
-    "com.miui.misightservice",
-    "com.miui.msa.global",
-    "com.miui.newhome",
-    "com.miui.newmidrive",
-    "com.miui.nextpay",
-    "com.miui.otaprovision",
-    "com.miui.phone.carriers.overlay.h3g",
-    "com.miui.privacycomputing",
-    "com.miui.securityinputmethod",
-    "com.miui.spock",
-    "com.miui.sysopt",
-    "com.miui.systemAdSolution",
-    "com.miui.thirdappassistant",
-    "com.miui.translation.kingsoft",
-    "com.miui.translation.youdao",
-    "com.miui.tsmclient",
-    "com.miui.tv.analytics",
-    "com.miui.uireporter",
-    "com.miui.userguide",
-    "com.miui.vipservice",
-    "com.miui.voiceassist",
-    "com.miui.voicetrigger",
-    "com.miui.vpnsdkmanager",
-    "com.miui.wallpaper",
-    "com.miui.wmsvc",
-    "com.miui.yellowpage",
-    "com.miuix.editor",
-    "com.mobiletools.systemhelper",
-    "com.netflix.partner.activation",
-    "com.opera.max.oem",
-    "com.opera.preinstall",
-    "com.orange.aura.oobe",
-    "com.qti.confuridialer",
-    "com.qti.diagservices",
-    "com.qti.qualcomm.deviceinfo",
-    "com.qualcomm.qti.autoregistration",
-    "com.qualcomm.qti.biometrics.fingerprint.qfsfactorytest",
-    "com.qualcomm.qti.performancemode",
-    "com.qualcomm.qti.qccauthmgr",
-    "com.qualcomm.qti.qdma",
-    "com.qualcomm.qti.qms.service.connectionsecurity",
-    "com.qualcomm.qti.qms.service.trustzoneaccess",
-    "com.qualcomm.qti.ridemodeaudio",
-    "com.qualcomm.qti.xrvd.service",
-    "com.unionpay.tsmservice.mi",
-    "com.wapi.wapicertmanage",
-    "com.wdstechnology.android.kryten",
-    "com.wingtech.standard",
-    "com.wt.secret_code_manager",
-    "com.wt.version_query",
-    "com.xiaomi.ab",
-    "com.xiaomi.aiasst.service",
-    "com.xiaomi.aiasst.vision",
-    "com.xiaomi.aireco",
-    "com.xiaomi.android.tvsetup.partnercustomizer",
-    "com.xiaomi.barrage",
-    "com.xiaomi.bttester",
-    "com.xiaomi.channel",
-    "com.xiaomi.digitalkey",
-    "com.xiaomi.gamecenter",
-    "com.xiaomi.gamecenter.sdk.service",
-    "com.xiaomi.glgm",
-    "com.xiaomi.jr",
-    "com.xiaomi.macro",
-    "com.xiaomi.miaudiovisual",
-    "com.xiaomi.mibrain.speech",
-    "com.xiaomi.mircs",
-    "com.xiaomi.mirecycle",
-    "com.xiaomi.mis",
-    "com.xiaomi.mtb",
-    "com.xiaomi.o2o",
-    "com.xiaomi.oobhelper",
-    "com.xiaomi.otrpbroker",
-    "com.xiaomi.oversea.ecom",
-    "com.xiaomi.payment",
-    "com.xiaomi.security.onetrack",
-    "com.xiaomi.shop",
-    "com.xiaomi.vipaccount",
-    "com.xiaomi.xaee",
-    "com.xiaomi.youpin",
-    "de.telekom.tsc",
-    "org.mipay.android.manager"
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.cactus"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.cepheus"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.cereus"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.daisy"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.dipper"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.land"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.model"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.qssi"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.whyred"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.willow"
+    },
+    {
+      "packageName": "android.romstats"
+    },
+    {
+      "packageName": "com.altice.android.myapps"
+    },
+    {
+      "packageName": "com.amazon.appmanager"
+    },
+    {
+      "packageName": "com.android.egg"
+    },
+    {
+      "packageName": "com.android.providers.partnerbookmarks"
+    },
+    {
+      "packageName": "com.android.theme.font.notoserifsource"
+    },
+    {
+      "packageName": "com.android.traceur"
+    },
+    {
+      "packageName": "com.aura.oobe.deutsche"
+    },
+    {
+      "packageName": "com.aura.oobe.vodafone"
+    },
+    {
+      "packageName": "com.bsp.catchlog"
+    },
+    {
+      "packageName": "com.dti.bouyguestelecom"
+    },
+    {
+      "packageName": "com.dti.telefonica"
+    },
+    {
+      "packageName": "com.duokan.reader"
+    },
+    {
+      "packageName": "com.ebay.carrier"
+    },
+    {
+      "packageName": "com.facebook.appmanager"
+    },
+    {
+      "packageName": "com.facebook.services"
+    },
+    {
+      "packageName": "com.facebook.system"
+    },
+    {
+      "packageName": "com.fingerprints.extension.service"
+    },
+    {
+      "packageName": "com.fingerprints.sensortesttool"
+    },
+    {
+      "packageName": "com.goodix.fingerprint"
+    },
+    {
+      "packageName": "com.goodix.fingerprint.producttest"
+    },
+    {
+      "packageName": "com.goodix.gftest"
+    },
+    {
+      "packageName": "com.huaqin.diaglogger"
+    },
+    {
+      "packageName": "com.ironsource.appcloud.oobe.hutchison"
+    },
+    {
+      "packageName": "com.jiiov.fingerprint_factorytest"
+    },
+    {
+      "packageName": "com.longcheertel.midtest"
+    },
+    {
+      "packageName": "com.mfashiongallery.emag"
+    },
+    {
+      "packageName": "com.mi.appfinder"
+    },
+    {
+      "packageName": "com.mi.global.bbs"
+    },
+    {
+      "packageName": "com.mi.global.pocobbs"
+    },
+    {
+      "packageName": "com.mi.global.pocostore"
+    },
+    {
+      "packageName": "com.mi.global.shop"
+    },
+    {
+      "packageName": "com.mi.globalbrowser"
+    },
+    {
+      "packageName": "com.mi.globalbrowser.mini"
+    },
+    {
+      "packageName": "com.mi.health"
+    },
+    {
+      "packageName": "com.micredit.in"
+    },
+    {
+      "packageName": "com.mig.play.games"
+    },
+    {
+      "packageName": "com.mipay.wallet.id"
+    },
+    {
+      "packageName": "com.mipay.wallet.in"
+    },
+    {
+      "packageName": "com.miui.analytics"
+    },
+    {
+      "packageName": "com.miui.android.fashiongallery"
+    },
+    {
+      "packageName": "com.miui.bugreport"
+    },
+    {
+      "packageName": "com.miui.carrierinstructions"
+    },
+    {
+      "packageName": "com.miui.cit"
+    },
+    {
+      "packageName": "com.miui.cleaner"
+    },
+    {
+      "packageName": "com.miui.cleanmaster"
+    },
+    {
+      "packageName": "com.miui.contentextension"
+    },
+    {
+      "packageName": "com.miui.easygo"
+    },
+    {
+      "packageName": "com.miui.enbbs"
+    },
+    {
+      "packageName": "com.miui.fm"
+    },
+    {
+      "packageName": "com.miui.fmservice"
+    },
+    {
+      "packageName": "com.miui.hybrid"
+    },
+    {
+      "packageName": "com.miui.hybrid.accessory"
+    },
+    {
+      "packageName": "com.miui.klo.bugreport"
+    },
+    {
+      "packageName": "com.miui.mediafeature"
+    },
+    {
+      "packageName": "com.miui.metoknlp"
+    },
+    {
+      "packageName": "com.miui.misightservice"
+    },
+    {
+      "packageName": "com.miui.msa.global"
+    },
+    {
+      "packageName": "com.miui.newhome"
+    },
+    {
+      "packageName": "com.miui.newmidrive"
+    },
+    {
+      "packageName": "com.miui.nextpay"
+    },
+    {
+      "packageName": "com.miui.otaprovision"
+    },
+    {
+      "packageName": "com.miui.phone.carriers.overlay.h3g"
+    },
+    {
+      "packageName": "com.miui.privacycomputing"
+    },
+    {
+      "packageName": "com.miui.securityinputmethod"
+    },
+    {
+      "packageName": "com.miui.spock"
+    },
+    {
+      "packageName": "com.miui.sysopt"
+    },
+    {
+      "packageName": "com.miui.systemAdSolution"
+    },
+    {
+      "packageName": "com.miui.thirdappassistant"
+    },
+    {
+      "packageName": "com.miui.translation.kingsoft"
+    },
+    {
+      "packageName": "com.miui.translation.youdao"
+    },
+    {
+      "packageName": "com.miui.tsmclient"
+    },
+    {
+      "packageName": "com.miui.tv.analytics"
+    },
+    {
+      "packageName": "com.miui.uireporter"
+    },
+    {
+      "packageName": "com.miui.userguide"
+    },
+    {
+      "packageName": "com.miui.vipservice"
+    },
+    {
+      "packageName": "com.miui.voiceassist"
+    },
+    {
+      "packageName": "com.miui.voicetrigger"
+    },
+    {
+      "packageName": "com.miui.vpnsdkmanager"
+    },
+    {
+      "packageName": "com.miui.wallpaper"
+    },
+    {
+      "packageName": "com.miui.wmsvc"
+    },
+    {
+      "packageName": "com.miui.yellowpage"
+    },
+    {
+      "packageName": "com.miuix.editor"
+    },
+    {
+      "packageName": "com.mobiletools.systemhelper"
+    },
+    {
+      "packageName": "com.netflix.partner.activation"
+    },
+    {
+      "packageName": "com.opera.max.oem"
+    },
+    {
+      "packageName": "com.opera.preinstall"
+    },
+    {
+      "packageName": "com.orange.aura.oobe"
+    },
+    {
+      "packageName": "com.qti.confuridialer"
+    },
+    {
+      "packageName": "com.qti.diagservices"
+    },
+    {
+      "packageName": "com.qti.qualcomm.deviceinfo"
+    },
+    {
+      "packageName": "com.qualcomm.qti.autoregistration"
+    },
+    {
+      "packageName": "com.qualcomm.qti.biometrics.fingerprint.qfsfactorytest"
+    },
+    {
+      "packageName": "com.qualcomm.qti.performancemode"
+    },
+    {
+      "packageName": "com.qualcomm.qti.qccauthmgr"
+    },
+    {
+      "packageName": "com.qualcomm.qti.qdma"
+    },
+    {
+      "packageName": "com.qualcomm.qti.qms.service.connectionsecurity"
+    },
+    {
+      "packageName": "com.qualcomm.qti.qms.service.trustzoneaccess"
+    },
+    {
+      "packageName": "com.qualcomm.qti.ridemodeaudio"
+    },
+    {
+      "packageName": "com.qualcomm.qti.xrvd.service"
+    },
+    {
+      "packageName": "com.unionpay.tsmservice.mi"
+    },
+    {
+      "packageName": "com.wapi.wapicertmanage"
+    },
+    {
+      "packageName": "com.wdstechnology.android.kryten"
+    },
+    {
+      "packageName": "com.wingtech.standard"
+    },
+    {
+      "packageName": "com.wt.secret_code_manager"
+    },
+    {
+      "packageName": "com.wt.version_query"
+    },
+    {
+      "packageName": "com.xiaomi.ab"
+    },
+    {
+      "packageName": "com.xiaomi.aiasst.service"
+    },
+    {
+      "packageName": "com.xiaomi.aiasst.vision"
+    },
+    {
+      "packageName": "com.xiaomi.aireco"
+    },
+    {
+      "packageName": "com.xiaomi.android.tvsetup.partnercustomizer"
+    },
+    {
+      "packageName": "com.xiaomi.barrage"
+    },
+    {
+      "packageName": "com.xiaomi.bttester"
+    },
+    {
+      "packageName": "com.xiaomi.channel"
+    },
+    {
+      "packageName": "com.xiaomi.digitalkey"
+    },
+    {
+      "packageName": "com.xiaomi.gamecenter"
+    },
+    {
+      "packageName": "com.xiaomi.gamecenter.sdk.service"
+    },
+    {
+      "packageName": "com.xiaomi.glgm"
+    },
+    {
+      "packageName": "com.xiaomi.jr"
+    },
+    {
+      "packageName": "com.xiaomi.macro"
+    },
+    {
+      "packageName": "com.xiaomi.miaudiovisual"
+    },
+    {
+      "packageName": "com.xiaomi.mibrain.speech"
+    },
+    {
+      "packageName": "com.xiaomi.mircs"
+    },
+    {
+      "packageName": "com.xiaomi.mirecycle"
+    },
+    {
+      "packageName": "com.xiaomi.mis"
+    },
+    {
+      "packageName": "com.xiaomi.mtb"
+    },
+    {
+      "packageName": "com.xiaomi.o2o"
+    },
+    {
+      "packageName": "com.xiaomi.oobhelper"
+    },
+    {
+      "packageName": "com.xiaomi.otrpbroker"
+    },
+    {
+      "packageName": "com.xiaomi.oversea.ecom"
+    },
+    {
+      "packageName": "com.xiaomi.payment"
+    },
+    {
+      "packageName": "com.xiaomi.security.onetrack"
+    },
+    {
+      "packageName": "com.xiaomi.shop"
+    },
+    {
+      "packageName": "com.xiaomi.vipaccount"
+    },
+    {
+      "packageName": "com.xiaomi.xaee"
+    },
+    {
+      "packageName": "com.xiaomi.youpin"
+    },
+    {
+      "packageName": "de.telekom.tsc"
+    },
+    {
+      "packageName": "org.mipay.android.manager"
+    }
   ]
 }
